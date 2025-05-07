@@ -4,11 +4,11 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Megastore</title>
-	<link rel="stylesheet" type="text/css" href="megastore.css">
+	<link rel="stylesheet" type="text/css" href="static/megastore.css">
 </head>
 <body>
 	<header>
-		Megastore
+	    <%= it.title %>
 	</header>
 
 	<search>
